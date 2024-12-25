@@ -58,4 +58,4 @@ The goal is to extract actionable insights and create visualizations to inform b
 1. Libraries
    - Numpy `py -m pip install numpy`
    - Pandas `py -m pip install pandas`
-   - plotly `py -m pip install plotly`
+   - Plotly `py -m pip install plotly`
