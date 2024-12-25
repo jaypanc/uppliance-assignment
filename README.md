@@ -31,20 +31,16 @@ The goal is to extract actionable insights and create visualizations to inform b
 ### Key Insights
 
 1. **Most Popular Dishes**:
-   - "Spaghetti" and "Grilled Chicken" were frequently ordered dishes.
+   - **Spaghetti** and **Grilled Chicken** were frequently ordered dishes.
    - Dinners had higher session ratings compared to other meal types.
 
 2. **Demographic Trends**:
    - New York, Chicago and Los Angles are top performing locations contributing to **54%** of total revenue.
    - Users aged 20-30 preferred Dinner.
-   - Specific locations had distinctive ordering patterns.
 
 4. **Correlation Between Sessions & Orders**:
    - Sessions with higher ratings led to more frequent orders.
-
-5. **Revenue Analysis**:
-   - Highest revenue-generating locations and meal types were identified.
-
+     
 ---
 
 
