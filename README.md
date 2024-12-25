@@ -1,4 +1,4 @@
-# uppliance-assignment
+# Uppliance-assignment
 
 ## Cooking Sessions and User Orders Analysis
 
