@@ -35,13 +35,14 @@ The goal is to extract actionable insights and create visualizations to inform b
    - Dinners had higher session ratings compared to other meal types.
 
 2. **Demographic Trends**:
-   - Users aged 20-30 preferred Dinner, while 30-40 leaned towards Breakfast.
+   - New York, Chicago and Los Angles are top performing locations contributing to **54%** of total revenue.
+   - Users aged 20-30 preferred Dinner.
    - Specific locations had distinctive ordering patterns.
 
-3. **Correlation Between Sessions & Orders**:
+4. **Correlation Between Sessions & Orders**:
    - Sessions with higher ratings led to more frequent orders.
 
-4. **Revenue Analysis**:
+5. **Revenue Analysis**:
    - Highest revenue-generating locations and meal types were identified.
 
 ---
@@ -54,8 +55,3 @@ The goal is to extract actionable insights and create visualizations to inform b
 2. Provide personalized offers based on user location and age group preferences.
 3. Improve session engagement to boost order ratings and overall satisfaction.
 
----
-
-## Contact
-For questions or collaboration:
-- **Email**: [your_email@example.com](mailto:your_email@example.com)
