@@ -56,6 +56,6 @@ The goal is to extract actionable insights and create visualizations to inform b
 ### Requirements
 
 1. Libraries
-   - Numpy
-   - Pandas
-   - plotly
+   - Numpy `py -m pip install numpy`
+   - Pandas `py -m pip install pandas`
+   - plotly `py -m pip install plotly`
