@@ -51,3 +51,11 @@ The goal is to extract actionable insights and create visualizations to inform b
 2. Provide personalized offers based on user location and age group preferences.
 3. Improve session engagement to boost order ratings and overall satisfaction.
 
+---
+
+### Requirements
+
+1. Libraries
+   - Numpy
+   - Pandas
+   - plotly
